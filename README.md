@@ -1,3 +1,2 @@
 - Hi, I’m Flarf
 - I’m coding in PHP, JS, CSS, HTML, MySQL, C++, LUA and C#.
-- I am the creator of https://projvap.cf/ the old roblox revival!
