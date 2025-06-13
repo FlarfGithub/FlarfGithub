@@ -3,6 +3,7 @@
 ### Full-Stack Developer | PHP Specialist
 
 I'm a passionate developer with expertise in multiple programming languages and technologies. My primary focus is on web development, but I enjoy working across different domains.
+While the first thing is my main rodeo, I also reverse engineer things for fun and know some basic low-level programming.
 
 ## 🛠️ Technologies & Skills
 
